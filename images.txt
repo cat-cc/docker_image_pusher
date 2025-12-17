@@ -8,3 +8,5 @@ xhofe/alist:latest
 #redis
 #mysql
 mysql:5.6
+
+kafka:4.0.0
