@@ -11,4 +11,6 @@
 
 
 #apache/kafka-native:4.0.1
-apache/kafka:4.0.0
+#apache/kafka:4.0.0
+
+openjdk:25-jdk
