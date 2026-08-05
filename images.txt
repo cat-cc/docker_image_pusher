@@ -21,4 +21,5 @@
 
 #atmoz/sftp
 
-rabbitmq
+#rabbitmq
+apache/rocketmq
